@@ -1,2 +1,3 @@
 # learningCollab
-Saya belajar tentang gitHub di Dicoding.
+
+*Ini kontribusi dari ustadzCoding-dev*
